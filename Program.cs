@@ -21,7 +21,6 @@ namespace heist
             Console.WriteLine("\nIt's time to build your team for the heist");
             Console.WriteLine("You must add your teammates to the database \n");
 
-
             bool teamNameBlank = false;
 
             int numberOfTrials = 0;
